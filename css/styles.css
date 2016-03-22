@@ -1,0 +1,10 @@
+.unstyled {
+  color: blue;
+  list-style-type: none;
+}
+
+.col-md-6 {
+  text-align: center;
+  border: solid gray 4px;
+  margin-top: 10px;
+}
